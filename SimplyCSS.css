@@ -55,9 +55,16 @@ ol,ul { padding: 20px; border: 1px solid #f2f2f2; }
 .nav-li { font-family: arial; padding: 20px; border: 1px solid #f2f2f2; }
 .nav-drk { font-family: arial; padding: 20px; border: 1px solid #757575; }
 .selected { text-decoration: underline; color: black; }
+.text_500 { font-family: arial; font-size: 500%; }
+.text_450 { font-family: arial; font-size: 450%; }
+.text_400 { font-family: arial; font-size: 400%; }
+.text_350 { font-family: arial; font-size: 350%; }
 .text_300 { font-family: arial; font-size: 300%; }
 .text_250 { font-family: arial; font-size: 250%; }
 .text_200 {font-family: arial; font-size: 200%; }
 .text_150 { font-family: arial; font-size: 150%; }
 .text_100 { font-family: arial; font-size: 100%; }
+.text_75 { font-family: arial; font-size: 75%; }
+.text_50 { font-family: arial; font-size: 50%; }
+.text_25 { font-family: arial; font-size: 25%; }
 .image_large { background-position: center; background-repeat: no-repeat; background-size: cover; height: 60em; width: 100%; }
