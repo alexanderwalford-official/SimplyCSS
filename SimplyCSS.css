@@ -1,0 +1,354 @@
+/* Simply CSS */
+/* Developed by Alexander Walford 2021 */
+
+
+body {
+	font-family: arial;
+}
+
+a {
+	font-family: arial;
+	text-decoration: none;
+	color: #6e6e6e;
+}
+
+a:hover {
+	font-family: arial;
+	color: #969696;
+}
+
+a:pressed: {
+	font-family: arial;
+    text-decoration: none;
+	color: #6e6e6e;
+}
+
+p {
+	font-family: arial;
+}
+
+h1 {
+	font-family: arial;
+}
+
+h2 {
+	font-family: arial;
+}
+
+h3 {
+	font-family: arial;
+}
+
+h4 {
+	font-family: arial;
+}
+
+h5 {
+	font-family: arial;
+}
+
+h6 {
+	font-family: arial;
+}
+
+.container {
+	padding: 2em;
+}
+
+.container_pad10 {
+	padding: 10px;
+}
+
+.container_pad20 {
+	padding: 20px;
+}
+
+.container_pad30 {
+	padding: 30px;
+}
+
+.container_pad40 {
+	padding: 40px;
+}
+
+.container_pad50 {
+	padding: 50px;
+}
+
+button {
+	background-color: #f2f2f2;
+	padding: 10px;
+	font-family: arial;
+	border: none;
+}
+
+button:hover {
+	text-decoration: bold;
+}
+
+button:pressed {
+	text-decoration: none;
+}
+
+.btn_blue {
+	padding: 1em;
+	background-color: blue;
+	color: white;
+	border-radius: 1px 5px 3px;
+}
+
+.btn_red {
+	padding: 1em;
+	background-color: red;
+	color: white;
+	border-radius: 1px 5px 3px;
+}
+
+.btn_green {
+	padding: 1em;
+	background-color: green;
+	color: white;
+	border-radius: 1px 5px 3px;
+}
+
+.btn_purple {
+	padding: 1em;
+	background-color: purple;
+	color: white;
+	border-radius: 1px 5px 3px;
+}
+
+.btn_brown {
+	padding: 1em;
+	background-color: purple;
+	color: white;
+	border-radius: 1px 5px 3px;
+}
+
+.btn_gray {
+	padding: 1em;
+	background-color: gray;
+	border-radius: 1px 5px 3px;
+}
+
+.btn_black {
+	padding: 1em;
+	background-color: black;
+	color: white;
+	border-radius: 1px 5px 3px;
+}
+
+.btn_empt_blue {
+	padding: 10px;
+	border-radius: 1px 5px 3px;
+	border: 1px solid blue;
+	background-color: white;
+	color: blue;
+}
+
+.btn_empt_red {
+	padding: 10px;
+	border-radius: 1px 5px 3px;
+	border: 1px solid red;
+	background-color: white;
+	color: red;
+}
+
+.btn_empt_green {
+	padding: 10px;
+	border-radius: 1px 5px 3px;
+	border: 1px solid blue;
+	background-color: green;
+	color: green;
+}
+
+.btn_empt_purple {
+	padding: 10px;
+	border-radius: 1px 5px 3px;
+	border: 1px solid purple;
+	background-color: white;
+	color: purple;
+}
+
+.btn_empt_brown {
+	padding: 10px;
+	border-radius: 1px 5px 3px;
+	border: 1px solid brown;
+	background-color: white;
+	color: brown;
+}
+
+.btn_empt_gray {
+	padding: 10px;
+	border-radius: 1px 5px 3px;
+	border: 1px solid gray;
+	background-color: white;
+	color: gray;
+}
+
+.btn_empt_black {
+	padding: 10px;
+	border-radius: 1px 5px 3px;
+	border: 1px solid black;
+	background-color: white;
+	color: black;
+}
+
+
+.notif_norm {
+	padding: 10px;
+	border: 1px solid #a1f9ff;
+	background-color: #f0feff;
+	border-radius: 1px 5px 3px;
+}
+
+.notif_cor {
+	padding: 10px;
+	border: 1px solid #a1f9ff;
+	background-color: #adffc3;
+	border-radius: 1px 5px 3px;
+}
+
+.notif_warn {
+	padding: 10px;
+	border: 1px solid #ffa542;
+	background-color: #ffd2a1;
+	border-radius: 1px 5px 3px;
+}
+
+.notif_danger {
+	padding: 10px;
+	border: 1px solid #ff2b2b;
+	background-color: #ff8282;
+	color: white;
+	border-radius: 1px 5px 3px;
+}
+
+form {
+	font-family: arial;
+	padding: 20px;
+	border: 1px solid #f2f2f2;
+}
+
+input {
+	padding: 10px;
+	border: 1px solid #d9d9d9;
+}
+
+checkbox {
+	padding: 10px;
+	border: 1px solid #f2f2f2;
+}
+
+label {
+	padding: 10px;
+	font-family: arial;
+	color: gray;
+}
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  font-family: arial;
+}
+
+blockquote:before {
+  font-family: arial;
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+blockquote p {
+  display: inline;
+  font-family: arial;
+}
+
+image {
+  width: 100%;
+  height: auto;
+}
+
+code {
+	font-family: arial;
+	padding: 20px;
+	border: 1px solid #f2f2f2;
+}
+
+article {
+	font-family: arial;
+	padding: 20px;
+	border: 1px solid #f2f2f2;
+}
+
+cite {
+	font-family: arial;
+	padding: 20px;
+	border: 1px solid #f2f2f2;
+}
+
+nav {
+	font-family: arial;
+	padding: 20px;
+	border: 1px solid #f2f2f2;
+}
+
+.nav-li {
+	font-family: arial;
+	padding: 20px;
+	border: 1px solid #f2f2f2;
+}
+
+.nav-drk {
+	font-family: arial;
+	padding: 20px;
+	border: 1px solid #757575;
+}
+
+.selected {
+	text-decoration: underline;
+	color: black;
+}
+
+.text_300 {
+	font-family: arial;
+	font-size: 300%;
+}
+
+.text_250 {
+	font-family: arial;
+	font-size: 250%;
+}
+
+.text_200 {
+	font-family: arial;
+	font-size: 200%;
+}
+
+.text_150 {
+	font-family: arial;
+	font-size: 150%;
+}
+
+.text_100 {
+	font-family: arial;
+	font-size: 100%;
+}
+
+ol,
+ul {
+  padding: 20px;
+  border: 1px solid #f2f2f2;
+}
+
+li {
+}
+
+
+
+
