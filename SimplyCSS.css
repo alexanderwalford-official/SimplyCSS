@@ -74,10 +74,10 @@ ol,ul { padding: 20px; border: 1px solid #f2f2f2; }
 .text_50 { font-family: arial; font-size: 50%; }
 .text_25 { font-family: arial; font-size: 25%; }
 .image_large { background-position: center; background-repeat: no-repeat; background-size: cover; height: 60em; width: 100%; }
-.embed_blue { padding: 1.25rem; border: 1px solid #e9ecef; border-left-width: .25rem; border-radius: .25rem; border-left-color: blue; }
-.embed_red { padding: 1.25rem; border: 1px solid #e9ecef; border-left-width: .25rem; border-radius: .25rem; border-left-color: red; }
-.embed_green { padding: 1.25rem; border: 1px solid #e9ecef; border-left-width: .25rem; border-radius: .25rem; border-left-color: green; }
-.embed_yellow { padding: 1.25rem; border: 1px solid #e9ecef; border-left-width: .25rem; border-radius: .25rem; border-left-color: yellow; }
-.embed_purple { padding: 1.25rem; border: 1px solid #e9ecef; border-left-width: .25rem; border-radius: .25rem; border-left-color: purple; }
-.embed_gray { padding: 1.25rem; border: 1px solid #e9ecef; border-left-width: .25rem; border-radius: .25rem; border-left-color: gray; }
-.embed_white { padding: 1.25rem; border: 1px solid #e9ecef; border-left-width: .25rem; border-radius: .25rem; border-left-color: white; }
+.embed_blue { padding: 1.25rem; border: 1px solid #e9ecef; border-left-width: .25rem; border-radius: .25rem; border-left-color: #52c5ff; }
+.embed_red { padding: 1.25rem; border: 1px solid #e9ecef; border-left-width: .25rem; border-radius: .25rem; border-left-color: #ff4545; }
+.embed_green { padding: 1.25rem; border: 1px solid #e9ecef; border-left-width: .25rem; border-radius: .25rem; border-left-color: #52ff83; }
+.embed_yellow { padding: 1.25rem; border: 1px solid #e9ecef; border-left-width: .25rem; border-radius: .25rem; border-left-color: #f3ff52; }
+.embed_purple { padding: 1.25rem; border: 1px solid #e9ecef; border-left-width: .25rem; border-radius: .25rem; border-left-color: #e252ff; }
+.embed_gray { padding: 1.25rem; border: 1px solid #e9ecef; border-left-width: .25rem; border-radius: .25rem; border-left-color: #c9c9c9; }
+.embed_white { padding: 1.25rem; border: 1px solid #e9ecef; border-left-width: .25rem; border-radius: .25rem; border-left-color: #ffffff; }
