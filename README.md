@@ -3,7 +3,7 @@ The modern way to style your webpages easily.
 
 ### Installation
 Either download the file from here:
-https://renovatesoftware.com:140/css/SimplyCSS.css
+https://renovatesoftware.com/media/css/SimplyCSS.css
 
 Or reference it using the RSL CDN in your header:
 ```html
