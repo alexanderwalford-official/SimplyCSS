@@ -13,5 +13,7 @@ Or reference it using the RSL CDN in your header:
 ### Usage
 To use this stylesheet, you simply need to head over to the "Wiki" section.
 
-### Codepen Example:
+### Codepen Examples:
 https://codepen.io/alexander-walford/pen/abmPzgV
+
+https://codepen.io/alexander-walford/pen/YzGROJO
