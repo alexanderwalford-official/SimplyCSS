@@ -14,4 +14,4 @@ Or reference it using the RSL CDN in your header:
 To use this stylesheet, you simply need to head over to the "Wiki" section.
 
 ### Codepen Example:
-https://codepen.io/alexander-walford/pen/YzGROJO 
+https://codepen.io/alexander-walford/pen/abmPzgV
